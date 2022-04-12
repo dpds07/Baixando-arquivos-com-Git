@@ -1,0 +1,1 @@
+const exercicio = (5);
